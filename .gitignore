@@ -1,0 +1,32 @@
+# Dependencies
+/node_modules
+/frontend/node_modules
+
+# Production
+/dist
+/frontend/dist
+
+# Env
+.env
+.env.*
+!.env.example
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary review/export artifacts
+tmp-*.png
+*.tmp
+
+.vercel
+.superpowers/
