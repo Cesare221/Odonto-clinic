@@ -9,7 +9,7 @@
 
   **Sistema completo de gestão para clínicas odontológicas**
   
-  [Demo ao Vivo](https://clinica-odonto-ashy.vercel.app) · [Reportar Bug](https://github.com/Cesare221/Odonto-clinic/issues) · [Solicitar Feature](https://github.com/Cesare221/Odonto-clinic/issues)
+[Reportar Bug](https://github.com/Cesare221/Odonto-clinic/issues) · [Solicitar Feature](https://github.com/Cesare221/Odonto-clinic/issues)
 
 </div>
 
